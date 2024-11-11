@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2024/1/5
-# @Author  : EndCrystal
-# @Email   : 20024314@emails.bjut.edu.cn
+# @Author  : -
+# @Email   : -
 # @File    : train_cnn.py
 # @Software: PyCharm ; tensorflow-cpu == 2.3.0
 # @Brief   : cnn模型训练代码，训练的代码会保存在models目录下，折线图会保存在results目录下
